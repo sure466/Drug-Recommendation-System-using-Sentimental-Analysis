@@ -1,0 +1,6 @@
+Drug Recommendation System based on Sentiment Analysis of Drug Reviews using Machine Learning
+
+Algorithm / Model Used: LinearSVC
+
+Train Accuracy: 0.903   test Accuracy: 0.8369
+
